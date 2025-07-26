@@ -1,0 +1,113 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|d:\\cop3855-asp-net-core-empty\\sportsstore\\sportsstore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|d:\\cop3855-asp-net-core-empty\\sportsstore\\sportsstore\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\sessioncart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|d:\\cop3855-asp-net-core-empty\\sportsstore\\sportsstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|d:\\cop3855-asp-net-core-empty\\sportsstore\\sportsstore\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\iorderrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|d:\\cop3855-asp-net-core-empty\\sportsstore\\sportsstore\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{01BD3909-3B75-4E26-BDBA-4C6068DA22AE}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\models\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SportsStore\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:23:07.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionCart.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\SessionCart.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\SessionCart.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\SessionCart.cs",
+              "RelativeToolTip": "SportsStore\\Models\\SessionCart.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:22:11.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\Order.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\Order.cs",
+              "RelativeToolTip": "SportsStore\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:22:08.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOrderRepository.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\IOrderRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\IOrderRepository.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\IOrderRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\IOrderRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:22:06.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Models\\IProductRepository.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\SportsStore\\SportsStore\\Models\\IProductRepository.cs",
+              "RelativeToolTip": "SportsStore\\Models\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-24T16:22:04.86Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

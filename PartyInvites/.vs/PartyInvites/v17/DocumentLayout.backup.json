@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\views\\home\\listresponses.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\views\\home\\rsvpform.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\views\\home\\thanks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\views\\home\\myview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\models\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\models\\guestresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|d:\\cop3855-asp-net-mvc\\partyinvites\\partyinvites\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8A05306B-413E-4CAD-A01F-ADE72B2DF773}|PartyInvites\\PartyInvites.csproj|solutionrelative:partyinvites\\wwwroot\\css\\styles.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 118,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Styles.css",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\wwwroot\\css\\Styles.css",
+              "RelativeDocumentMoniker": "PartyInvites\\wwwroot\\css\\Styles.css",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\wwwroot\\css\\Styles.css",
+              "RelativeToolTip": "PartyInvites\\wwwroot\\css\\Styles.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-11T04:24:40.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ListResponses.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
+              "RelativeDocumentMoniker": "PartyInvites\\Views\\Home\\ListResponses.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\ListResponses.cshtml",
+              "RelativeToolTip": "PartyInvites\\Views\\Home\\ListResponses.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T02:54:08.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Thanks.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\Thanks.cshtml",
+              "RelativeDocumentMoniker": "PartyInvites\\Views\\Home\\Thanks.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\Thanks.cshtml",
+              "RelativeToolTip": "PartyInvites\\Views\\Home\\Thanks.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-11T02:11:22.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Models\\Repository.cs",
+              "RelativeDocumentMoniker": "PartyInvites\\Models\\Repository.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Models\\Repository.cs",
+              "RelativeToolTip": "PartyInvites\\Models\\Repository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-11T00:37:03.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RsvpForm.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+              "RelativeDocumentMoniker": "PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+              "RelativeToolTip": "PartyInvites\\Views\\Home\\RsvpForm.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACwAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T05:07:07.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuestResponse.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Models\\GuestResponse.cs",
+              "RelativeDocumentMoniker": "PartyInvites\\Models\\GuestResponse.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Models\\GuestResponse.cs",
+              "RelativeToolTip": "PartyInvites\\Models\\GuestResponse.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T04:54:31.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MyView.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\MyView.cshtml",
+              "RelativeDocumentMoniker": "PartyInvites\\Views\\Home\\MyView.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Views\\Home\\MyView.cshtml",
+              "RelativeToolTip": "PartyInvites\\Views\\Home\\MyView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-10T03:19:55.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "PartyInvites\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-MVC\\PartyInvites\\PartyInvites\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "PartyInvites\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwCMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-10T02:28:45.705Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

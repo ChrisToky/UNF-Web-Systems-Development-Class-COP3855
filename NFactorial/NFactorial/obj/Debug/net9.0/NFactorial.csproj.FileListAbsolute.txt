@@ -1,0 +1,14 @@
+D:\COP3855\NFactorial\NFactorial\bin\Debug\net9.0\NFactorial.exe
+D:\COP3855\NFactorial\NFactorial\bin\Debug\net9.0\NFactorial.deps.json
+D:\COP3855\NFactorial\NFactorial\bin\Debug\net9.0\NFactorial.runtimeconfig.json
+D:\COP3855\NFactorial\NFactorial\bin\Debug\net9.0\NFactorial.dll
+D:\COP3855\NFactorial\NFactorial\bin\Debug\net9.0\NFactorial.pdb
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\NFactorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\NFactorial.AssemblyInfoInputs.cache
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\NFactorial.AssemblyInfo.cs
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\NFactorial.csproj.CoreCompileInputs.cache
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\NFactorial.dll
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\refint\NFactorial.dll
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\NFactorial.pdb
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\NFactorial.genruntimeconfig.cache
+D:\COP3855\NFactorial\NFactorial\obj\Debug\net9.0\ref\NFactorial.dll

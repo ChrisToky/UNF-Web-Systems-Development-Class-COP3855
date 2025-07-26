@@ -1,0 +1,14 @@
+D:\COP3855\PropertyApp\PropertyApp\bin\Debug\net9.0\PropertyApp.exe
+D:\COP3855\PropertyApp\PropertyApp\bin\Debug\net9.0\PropertyApp.deps.json
+D:\COP3855\PropertyApp\PropertyApp\bin\Debug\net9.0\PropertyApp.runtimeconfig.json
+D:\COP3855\PropertyApp\PropertyApp\bin\Debug\net9.0\PropertyApp.dll
+D:\COP3855\PropertyApp\PropertyApp\bin\Debug\net9.0\PropertyApp.pdb
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\PropertyApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\PropertyApp.AssemblyInfoInputs.cache
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\PropertyApp.AssemblyInfo.cs
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\PropertyApp.csproj.CoreCompileInputs.cache
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\PropertyApp.dll
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\refint\PropertyApp.dll
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\PropertyApp.pdb
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\PropertyApp.genruntimeconfig.cache
+D:\COP3855\PropertyApp\PropertyApp\obj\Debug\net9.0\ref\PropertyApp.dll

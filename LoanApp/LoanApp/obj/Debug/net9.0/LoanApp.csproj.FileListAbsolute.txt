@@ -1,0 +1,14 @@
+D:\COP3855\LoanApp\LoanApp\bin\Debug\net9.0\LoanApp.exe
+D:\COP3855\LoanApp\LoanApp\bin\Debug\net9.0\LoanApp.deps.json
+D:\COP3855\LoanApp\LoanApp\bin\Debug\net9.0\LoanApp.runtimeconfig.json
+D:\COP3855\LoanApp\LoanApp\bin\Debug\net9.0\LoanApp.dll
+D:\COP3855\LoanApp\LoanApp\bin\Debug\net9.0\LoanApp.pdb
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\LoanApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\LoanApp.AssemblyInfoInputs.cache
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\LoanApp.AssemblyInfo.cs
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\LoanApp.csproj.CoreCompileInputs.cache
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\LoanApp.dll
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\refint\LoanApp.dll
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\LoanApp.pdb
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\LoanApp.genruntimeconfig.cache
+D:\COP3855\LoanApp\LoanApp\obj\Debug\net9.0\ref\LoanApp.dll

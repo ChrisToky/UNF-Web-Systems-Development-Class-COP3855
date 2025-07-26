@@ -1,0 +1,316 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\repository\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\repository\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\repository\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\repository\\studentlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\views\\student\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\studentms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\studentms.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|d:\\cop3855-asp-net-core-empty\\studentms\\studentms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36F213EB-BE1D-4DE5-A68D-4B2DC221F76B}|StudentMS\\StudentMS.csproj|solutionrelative:studentms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAcwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:14:13.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:03:25.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentMS\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBMAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:58:38.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Models\\Student.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Models\\Student.cs",
+              "RelativeToolTip": "StudentMS\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:22:50.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Repository\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Repository\\StudentRepository.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Repository\\StudentRepository.cs",
+              "RelativeToolTip": "StudentMS\\Repository\\StudentRepository.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:50:51.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Repository\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Repository\\IStudentRepository.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Repository\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentMS\\Repository\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:46:08.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAByAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T21:26:49.375Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T23:25:02.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentMS",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\StudentMS.csproj",
+              "RelativeDocumentMoniker": "StudentMS\\StudentMS.csproj",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\StudentMS.csproj",
+              "RelativeToolTip": "StudentMS\\StudentMS.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-25T00:07:46.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Edit.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Edit.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Edit.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAowC4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T01:25:00.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Delete.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Student\\Delete.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Student\\Delete.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Student\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-25T01:28:12.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "StudentMS\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "StudentMS\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-03-30T16:58:45.235Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "site.js",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "StudentMS\\wwwroot\\js\\site.js",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "StudentMS\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAcwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-03-30T16:58:58.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentList.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Repository\\StudentList.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Repository\\StudentList.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Repository\\StudentList.cs",
+              "RelativeToolTip": "StudentMS\\Repository\\StudentList.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAABUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T22:27:18.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T22:20:00.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentMS\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentMS\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-24T21:30:28.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Program.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Program.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Program.cs",
+              "RelativeToolTip": "StudentMS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:27:53.187Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentMS\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\COP3855-ASP-NET-Core-Empty\\StudentMS\\StudentMS\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentMS\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T21:26:01.475Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

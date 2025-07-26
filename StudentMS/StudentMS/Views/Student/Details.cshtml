@@ -1,0 +1,47 @@
+﻿@model StudentMS.Models.Student
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Student Information</h4>
+    <hr />
+    <div class="row">
+        <div class="col-sm-3">
+            <strong>@Html.DisplayNameFor(model => model.Name)</strong>
+        </div>
+        <div class="col-sm-9">
+            @Html.DisplayFor(model => model.Name)
+        </div>
+
+        <div class="col-sm-3">
+            <strong>@Html.DisplayNameFor(model => model.Age)</strong>
+        </div>
+        <div class="col-sm-9">
+            @Html.DisplayFor(model => model.Age)
+        </div>
+
+        <div class="col-sm-3">
+            <strong>@Html.DisplayNameFor(model => model.Degree)</strong>
+        </div>
+        <div class="col-sm-9">
+            @Html.DisplayFor(model => model.Degree)
+        </div>
+
+        <div class="col-sm-3">
+            <strong>@Html.DisplayNameFor(model => model.Status)</strong>
+        </div>
+        <div class="col-sm-9">
+            @Html.DisplayFor(model => model.Status)
+        </div>
+    </div>
+</div>
+
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.StudentID }, new { @class = "btn btn-primary btn-sm" }) |
+    @Html.ActionLink("Back to List", "Index", null, new { @class = "btn btn-secondary btn-sm" })
+</p>
+

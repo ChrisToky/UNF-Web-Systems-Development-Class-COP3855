@@ -1,0 +1,8 @@
+D:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner2.svg
+D:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner1.svg
+D:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner3.svg
+D:\COP3855-ASP-NET-Core-Empty\EmployeeAppManagement\EmployeeAppManagement\wwwroot\images\banner4.svg
+wwwroot\images\banner1.svg
+wwwroot\images\banner2.svg
+wwwroot\images\banner3.svg
+wwwroot\images\banner4.svg

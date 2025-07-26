@@ -1,0 +1,14 @@
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\bin\Debug\net9.0\MathOperationQuiz.exe
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\bin\Debug\net9.0\MathOperationQuiz.deps.json
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\bin\Debug\net9.0\MathOperationQuiz.runtimeconfig.json
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\bin\Debug\net9.0\MathOperationQuiz.dll
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\bin\Debug\net9.0\MathOperationQuiz.pdb
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\MathOperationQuiz.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\MathOperationQuiz.AssemblyInfoInputs.cache
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\MathOperationQuiz.AssemblyInfo.cs
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\MathOperationQuiz.csproj.CoreCompileInputs.cache
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\MathOperationQuiz.dll
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\refint\MathOperationQuiz.dll
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\MathOperationQuiz.pdb
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\MathOperationQuiz.genruntimeconfig.cache
+D:\COP3855\MathOperationQuiz\MathOperationQuiz\obj\Debug\net9.0\ref\MathOperationQuiz.dll

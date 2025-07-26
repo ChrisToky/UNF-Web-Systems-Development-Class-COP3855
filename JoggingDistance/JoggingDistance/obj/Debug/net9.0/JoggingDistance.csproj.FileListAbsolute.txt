@@ -1,0 +1,14 @@
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.exe
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.deps.json
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.runtimeconfig.json
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.dll
+D:\COP3855\JoggingDistance\JoggingDistance\bin\Debug\net9.0\JoggingDistance.pdb
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.AssemblyInfoInputs.cache
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.AssemblyInfo.cs
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.csproj.CoreCompileInputs.cache
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.dll
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\refint\JoggingDistance.dll
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.pdb
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\JoggingDistance.genruntimeconfig.cache
+D:\COP3855\JoggingDistance\JoggingDistance\obj\Debug\net9.0\ref\JoggingDistance.dll
