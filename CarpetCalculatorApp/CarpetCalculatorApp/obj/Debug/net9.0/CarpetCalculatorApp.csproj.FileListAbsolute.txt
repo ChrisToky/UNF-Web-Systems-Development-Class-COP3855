@@ -1,0 +1,14 @@
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net9.0\CarpetCalculatorApp.exe
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net9.0\CarpetCalculatorApp.deps.json
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net9.0\CarpetCalculatorApp.runtimeconfig.json
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net9.0\CarpetCalculatorApp.dll
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\bin\Debug\net9.0\CarpetCalculatorApp.pdb
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\CarpetCalculatorApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\CarpetCalculatorApp.AssemblyInfoInputs.cache
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\CarpetCalculatorApp.AssemblyInfo.cs
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\CarpetCalculatorApp.csproj.CoreCompileInputs.cache
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\CarpetCalculatorApp.dll
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\refint\CarpetCalculatorApp.dll
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\CarpetCalculatorApp.pdb
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\CarpetCalculatorApp.genruntimeconfig.cache
+D:\COP3855\CarpetCalculatorApp\CarpetCalculatorApp\obj\Debug\net9.0\ref\CarpetCalculatorApp.dll
