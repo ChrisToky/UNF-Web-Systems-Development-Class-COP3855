@@ -88,7 +88,7 @@ namespace CarpetCalculatorApp
                    pricePerSqYard.ToString("C") +
                    "\n\nTotal Square Yards: " +
                    noOfSqYards.ToString("F1") +
-                   "\n\nTotal Price: " +
+                   "\n\nTotal Price for: " +
                    DetermineTotalCost().ToString("C");
         }
 

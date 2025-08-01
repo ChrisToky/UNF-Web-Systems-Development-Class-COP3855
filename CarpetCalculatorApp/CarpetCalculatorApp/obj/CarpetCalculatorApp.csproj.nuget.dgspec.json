@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Web-Systems-Development-COP3855-Class-UNF\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj": {}
+    "D:\\UNF-Web-Systems-Development-Class-COP3855\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj": {}
   },
   "projects": {
-    "D:\\Web-Systems-Development-COP3855-Class-UNF\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj": {
+    "D:\\UNF-Web-Systems-Development-Class-COP3855\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Web-Systems-Development-COP3855-Class-UNF\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj",
+        "projectUniqueName": "D:\\UNF-Web-Systems-Development-Class-COP3855\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj",
         "projectName": "CarpetCalculatorApp",
-        "projectPath": "D:\\Web-Systems-Development-COP3855-Class-UNF\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj",
+        "projectPath": "D:\\UNF-Web-Systems-Development-Class-COP3855\\CarpetCalculatorApp\\CarpetCalculatorApp\\CarpetCalculatorApp.csproj",
         "packagesPath": "C:\\Users\\rezac\\.nuget\\packages\\",
-        "outputPath": "D:\\Web-Systems-Development-COP3855-Class-UNF\\CarpetCalculatorApp\\CarpetCalculatorApp\\obj\\",
+        "outputPath": "D:\\UNF-Web-Systems-Development-Class-COP3855\\CarpetCalculatorApp\\CarpetCalculatorApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
